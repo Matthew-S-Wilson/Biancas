@@ -1,0 +1,10 @@
+Controller: is a class. Controller class contains methods that that are the handlers for the endpoints of apis. 
+The controllers inherit many of the properties and methods we used form the controllerbase class
+
+Authentication - proving you are who you saying you are
+Authorization - proving you are allowed to do what your trying to do
+
+Cookies: facilitate authentication and authorization
+
+Constructor - method-like member of a class that provides logic for setting up the class to be ready for use;
+Constructors always have  the same name as the class, are public, have no return type
