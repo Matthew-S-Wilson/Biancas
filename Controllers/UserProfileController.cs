@@ -75,5 +75,8 @@ public IActionResult Demote(string id)
     _dbContext.UserRoles.Remove(userRole);
     _dbContext.SaveChanges();
     return NoContent();
+    
 }
+
 }
+

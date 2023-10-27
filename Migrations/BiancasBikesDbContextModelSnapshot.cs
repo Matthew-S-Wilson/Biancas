@@ -285,7 +285,7 @@ namespace BiancasBikes.Migrations
                         new
                         {
                             Id = "c3aaeb97-d2ba-4a53-a521-4eea61e59b35",
-                            ConcurrencyStamp = "a2ce8a28-aa80-4801-b1ac-3d6baf6697d3",
+                            ConcurrencyStamp = "38929c88-2056-48cc-b855-abda22c45454",
                             Name = "Admin",
                             NormalizedName = "admin"
                         });
@@ -384,13 +384,13 @@ namespace BiancasBikes.Migrations
                         {
                             Id = "dbc40bc6-0829-4ac5-a3ed-180f5e916a5f",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "dff704ee-c0e1-453c-9017-9f8d09ff71eb",
+                            ConcurrencyStamp = "7315b943-22e1-48aa-b366-9205e038a46e",
                             Email = "admina@strator.comx",
                             EmailConfirmed = false,
                             LockoutEnabled = false,
-                            PasswordHash = "AQAAAAEAACcQAAAAEFfHhfibn5vTCHRreGMFDXw5vuHSq6leqtRP/ndJ87wucimhqn/rKiZG0D5DVMKJBw==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEJPgFEjgzBVL6oTZjxWyYMZQiD6bOjou3D5uNlRO6tvuMGLecmQ02WLIWj/DvaHmbA==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "6e49d05a-661b-4660-84dc-92acbfd53037",
+                            SecurityStamp = "69690ea7-ccad-4343-bedf-83d83625a955",
                             TwoFactorEnabled = false,
                             UserName = "Administrator"
                         });
